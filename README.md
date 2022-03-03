@@ -1,6 +1,6 @@
 ## 我是GEEKAPE 👦
 
-- 📑 2014年前后网赚第一桶金，现高级前端工程师，做过SEO，电商运营，美工，未来想成为一名独立开发者。
+- 📑 现已成为一名独立开发者，靠开发，设计，运营，游戏，自媒体赚钱
 - 🏡 作品：<a href="https://github.com/geekape/geek-navigation" target="_blank">极客猿导航</a> | 求星星 ✨</a>
 - 💬 微信：zcb861013016
 
